@@ -1,3 +1,14 @@
+<a href="https://github.com/bariulmunshi">
+    <img src="https://komarev.com/ghpvc/?username=bariulmunshi" alt = "profile views count" />
+</a>
+
+<a href="https://github.com/bariulmunshi">
+
+<img src="https://img.shields.io/github/followers/bariulmunshi?label=Followers&style=social" alt="GitHub Badge">
+
+</a>
+
+</br>
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://bariulmunshi.io)
 <h1 align="center">Hi 👋, I'm Md. Bariul Munshi</h1>
 <h3 align="center">A passionate FullStack Developer from Bangladesh</h3>
