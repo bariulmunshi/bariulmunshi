@@ -4,19 +4,17 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bariulmunshi&label=Profile%20views&color=0e75b6&style=flat" alt="bariulmunshi" /> </p>
 
-<p align="left"> <a href="https://twitter.com/rishavchanda" target="blank"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="rishavchanda"  </p>
+- 🔭 I’m currently working on **Web App**
 
-- 🔭 I’m currently working on **Vexa Web App**
+- 🌱 I’m currently learning **React Native**
 
-- 🌱 I’m currently learning **DevOps**
-
-- 💬 Ask me about **Android , MEARN**
+- 💬 Ask me about **React Native , MERN, Next.JS**
 
 - 📫 How to reach me **bariulsoft@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact **I want to be billionaire**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,10 +23,7 @@
 <a href="https://www.youtube.com/@softcarehub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rishav chanda" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<h3 align="center">A passionate frontend developer from India</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
