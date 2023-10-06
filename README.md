@@ -5,8 +5,9 @@
 <a href="https://github.com/bariulmunshi">
 
 <img src="https://img.shields.io/github/followers/bariulmunshi?label=Followers&style=social" alt="GitHub Badge">
-</a>
-<img src="images/bariul.HEIC" alt="Alt text" title="Optional title">
+</a> 
+
+![images](https://scontent.fdac134-1.fna.fbcdn.net/v/t39.30808-6/382202225_222860710778090_1991766285551951071_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=a2f6c7&_nc_eui2=AeH0kP16QyLUFDLlInRXQ2hrMkvm-cIg_aAyS-b5wiD9oPRVwm9thPW1vG7rf-uczrpD9kcqklUhLWIyn5hvi5Mb&_nc_ohc=Jo2b8qbYLhMAX80e6mm&_nc_ht=scontent.fdac134-1.fna&oh=00_AfBaYlvJt6aeyxfXLNNdrORjVQlN652CO4r9F9T7hssWvQ&oe=6524D241)
 
 <h1 align="center">Hi 👋, I'm Md. Bariul Munshi</h1>
 <h3 align="center">A passionate Full-Stack Developer from Bangladesh</h3>
