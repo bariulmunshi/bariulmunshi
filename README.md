@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/github/followers/bariulmunshi?label=Followers&style=social" alt="GitHub Badge">
 </a> 
 
-![what's JSON](https://i.ibb.co/6yJ9pq5/default.png)
+![what's JSON](https://i.ibb.co/fnNrR1T/IMG-20230923-205816-331.jpg)
 
 
 <h1 align="center">Hi 👋, I'm Md. Bariul Munshi</h1>
