@@ -3,6 +3,7 @@
 </a>
 
 <a href="https://github.com/bariulmunshi">
+[Download CV](https://drive.google.com/file/d/1nWCj8imhUIzdAqbwMm-t0yWVffsfOxJI/view?usp=sharing)
 
 <img src="https://img.shields.io/github/followers/bariulmunshi?label=Followers&style=social" alt="GitHub Badge">
 </a> 
